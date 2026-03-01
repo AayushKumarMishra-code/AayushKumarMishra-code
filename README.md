@@ -52,4 +52,4 @@ I genuinely believe **open source is humanity’s launchpad to becoming a multi-
 ```text
 GOAL:
 In the next 10 years, I want every rocket launch
-to use something I helped build.
+to use something I build.
